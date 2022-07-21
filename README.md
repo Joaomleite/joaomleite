@@ -3,7 +3,7 @@
 ## I'm João Marcos
 
 - 🖥️ Web Developer at Grupo Soma
-- 🎓 Computer Science (4/8)
+- 🎓 Computer Science (6/8)
 - ⚡Front-End Developer
 - 🏠 Rio de Janeiro - RJ
 
