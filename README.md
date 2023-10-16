@@ -2,9 +2,9 @@
 
 ## I'm João Marcos
 
-- 🖥️ Web Developer at Grupo Soma
-- 🎓 Computer Science (6/8)
-- ⚡Front-End Developer
+- 🖥️ Software Engineer at Grupo Soma
+- 🎓 Computer Science (8/8)
+- ⚡ Node | React 
 - 🏠 Rio de Janeiro - RJ
 
 ## Find me elsewhere
