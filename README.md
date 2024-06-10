@@ -9,7 +9,6 @@
 ## Find me elsewhere
 <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-leite/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"> </a>
 <a href="joaomarcossleite@gmail.com" target="_blank" ><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" alt="Gmail" width="30" height="30"> </a>
-<a href="https://twitter.com/joaomleite__" target="_blank" ><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-256.png" alt="Twitter" width="30" height="30"> </a>
 
 ## My Skills
 
