@@ -2,8 +2,7 @@
 
 ## I'm João Marcos
 
-- 🖥️ Software Engineer at Grupo Soma
-- 🎓 Computer Science (8/8)
+- 🖥️ Software Engineer
 - ⚡ Node | React 
 - 🏠 Rio de Janeiro - RJ
 
