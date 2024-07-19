@@ -20,7 +20,6 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="Python" width="30" height="30">
 </div>
 
-##
 
 <!--
 **Joaomleite/joaomleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
